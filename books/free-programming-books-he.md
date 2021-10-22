@@ -34,3 +34,8 @@
 
 * [תכנות בשפת פייתון](https://data.cyber.org.il/python/python_book.pdf) – ברק גונן, המרכז לחינוך סייבר (PDF)
 
+
+### Java
+
+* [Java המדריך הישראלי ל](https://javabook.co.il/wordpress/?page_id=10) - חיים מיכאל
+
